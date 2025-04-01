@@ -13,3 +13,7 @@
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60"/>
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KyuuT3A/KyuuT3A/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
